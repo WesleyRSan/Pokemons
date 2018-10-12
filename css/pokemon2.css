@@ -1,0 +1,18 @@
+.bloco {
+    width: 50%;
+    display: block;
+    height: 400px;
+    overflow: scroll;
+    padding: 15px;
+    outline: none;
+    box-sizing: border-box;
+    margin: 0;
+    border: solid 1px brown;
+    float: left;
+}
+.titulo {
+    text-align: center;
+}
+.item {
+    text-transform: uppercase;
+}
